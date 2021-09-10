@@ -3,7 +3,7 @@ noseY = "";
 objects = [];
 function preload()
 {
-    clown_nose = loadImage("Ganpati.png");
+    clown_nose = loadImage("morning pooja 1.png");
 }
 function setup()
 {
