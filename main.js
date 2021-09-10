@@ -6,3 +6,7 @@ function sthapanaVideo()
 {
     window.location = "sthapana_video.html";
 }
+function eveningPooja()
+{
+    window.location = "eveningPooja.html"
+}

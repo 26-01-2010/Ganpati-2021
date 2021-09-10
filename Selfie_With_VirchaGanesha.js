@@ -34,7 +34,7 @@ function modelLoaded()
 function draw()
 {
     background("gold")
-    image(clown_nose, -30, 40, 400, 200);
+    image(clown_nose, -30, 40, 400, 100);
     image(video, 300, 80, 360, 370);
     fill("green");
     stroke("black");
