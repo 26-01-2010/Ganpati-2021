@@ -14,3 +14,11 @@ function morningPoojaDay2()
 {
     window.location = "morningPoojaDay2.html";
 }
+function visarjanPoojaDay2()
+{
+    window.location = "visarjan pooja.html";
+}
+function videos()
+{
+    window.location = "videos.html";
+}
