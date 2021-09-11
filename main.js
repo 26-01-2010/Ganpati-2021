@@ -8,5 +8,9 @@ function sthapanaVideo()
 }
 function eveningPooja()
 {
-    window.location = "eveningPooja.html"
+    window.location = "eveningPooja.html";
+}
+function morningPoojaDay2()
+{
+    window.location = "morningPoojaDay2.html";
 }
